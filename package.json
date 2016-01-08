@@ -1,0 +1,16 @@
+{
+  "name": "local-cube-client",
+  "version": "1.0.0",
+  "description": "Local Client for Cube installations",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "forever":"0.14.1",
+    "express":"latest",
+    "socket.io-client":"latest"
+  }
+}
